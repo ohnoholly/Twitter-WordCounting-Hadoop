@@ -4,6 +4,7 @@ Author: Han Wang <br>
 This project is to record how I utlize cloud computing resources in the SNIC Science Cloud(SSC), which is a Swedish national resource (a community cloud) that provides Infrastructure-as-a-Service (IaaS), to build up a virtual machines for Hadoop Files System. SSC is built using  OpenStack cloud software  and Ceph storage. I implement MapReduce with counting Swedish pronouns  “han”, “hon”, “den”, “det”, “denna”, “denne”, and the gender neutral pronoun “hen”.
 ***
 ###System Benchmark
+
 | Operation System | Flavor Name | RAM Size |  VCPUs | Disk Storage | Availability Zone| Network|
 |:--------:|:-----------:|:--------:|:------:|:------------:|:------------:|:-------------:|
 |  Linux 4.4.0-75-generic x86_64  |  ssc.xlarge  |    16 GB   | 8 VCPU |     160 GB     | nova |  Internal IPv4 Network |
