@@ -1,4 +1,4 @@
-#Twitter's WordCounting On Hadoop
+# Twitter's WordCounting On Hadoop
 ***
 Author: Han Wang <br>
 This project is to record how I utlize cloud computing resources in the SNIC Science Cloud(SSC), which is a Swedish national resource (a community cloud) that provides Infrastructure-as-a-Service (IaaS), to build up a virtual machines for Hadoop Files System. SSC is built using  OpenStack cloud software  and Ceph storage. I implement MapReduce with counting Swedish pronouns  “han”, “hon”, “den”, “det”, “denna”, “denne”, and the gender neutral pronoun “hen”.
